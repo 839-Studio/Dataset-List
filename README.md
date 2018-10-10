@@ -13,3 +13,4 @@ Headline(s) | Folder
 [Shrinking Cities](http://interaction.sixthtone.com/feature/2018/shrinking-cities/index.html)|[Shrinking-Cities](https://github.com/839-Studio/Shrinking-Cities)
 [Where Did Meteorites Fall on the Earth?](https://www.thepaper.cn/newsDetail_forward_2175730)|[world-meteorite](https://github.com/839-Studio/world-meteorite)
 [What Happened to the Housing Markets of Cities That Received Verbal Notice From the Central Government?](https://www.thepaper.cn/newsDetail_forward_2175230)|[housing-price-policy](https://github.com/839-Studio/housing-price-policy)
+[The List That Can Influence the Future of Many Animals Hasn't Been Updated for Almost 30 Years](https://www.thepaper.cn/newsDetail_forward_2499998)|[wildlife-protection](https://github.com/839-Studio/wildlife-protection)
